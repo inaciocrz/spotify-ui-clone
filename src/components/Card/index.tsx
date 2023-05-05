@@ -11,9 +11,17 @@ interface ICard {
 export default function Card({ title, description, img }: ICard) {
   const imageRef = useRef(null);
   useEffect(() => {
-    if (description === "Artist") {
-      imageRef.current.height = imageRef.current.width;
-    }
+    const handleResize = () => {
+      if (description === "Artist") {
+        imageRef.current.height = imageRef.current.width;
+      }
+    };
+    handleResize();
+    window.addEventListener("resize", handleResize);
+
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
   }, [description]);
 
   return (
