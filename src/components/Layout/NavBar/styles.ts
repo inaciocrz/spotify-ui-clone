@@ -30,7 +30,10 @@ export const MainMenu = styled.ul`
 `;
 
 export const SongsMenu = styled.div`
+  display: flex;
+  flex-direction: column;
   flex: 1;
+  min-height: 0;
   margin-top: 24px;
   ul {
     list-style: none;
@@ -39,7 +42,27 @@ export const SongsMenu = styled.div`
   }
 
   ul.playlists-list {
+    flex: 1;
+    overflow-y: auto;
     padding: 8px 0;
+
+    &::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    &::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: #5e5e5e;
+      transition: background-color 0.2s ease;
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+      background: #8e8e8e;
+    }
+
     li {
       padding: 0 24px;
 

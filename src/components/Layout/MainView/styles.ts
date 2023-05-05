@@ -12,18 +12,15 @@ export const Container = styled.div`
     width: 10px;
   }
 
-  /* Track */
   &::-webkit-scrollbar-track {
     background: transparent;
   }
 
-  /* Handle */
   &::-webkit-scrollbar-thumb {
     background: #5e5e5e;
     transition: background-color 0.2s ease;
   }
 
-  /* Handle on hover */
   &::-webkit-scrollbar-thumb:hover {
     background: #8e8e8e;
   }
