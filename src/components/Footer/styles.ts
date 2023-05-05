@@ -7,9 +7,11 @@ export const Container = styled.div`
 
   .main {
     display: flex;
+    flex-wrap: wrap;
     margin-bottom: 40px;
     .infos {
       display: flex;
+      flex-wrap: wrap;
       gap: 24px;
       flex: 1;
 
