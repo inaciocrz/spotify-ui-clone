@@ -1,0 +1,309 @@
+{
+  "featured": [
+    {
+      "title": "Podcasts para rir até chorar",
+      "items": [
+        {
+          "title": "Mução",
+          "description": "Mução",
+          "img": "https://i.scdn.co/image/c480af1432849dcb104c68a34f853e74c59967bd"
+        },
+        {
+          "title": "Blackast",
+          "description": "Nego Di",
+          "img": "https://i.scdn.co/image/ab67656300005f1f9bff39c4e4ddbc8d100af43c"
+        },
+        {
+          "title": "Libertinagem",
+          "description": "Half Deaf",
+          "img": "https://i.scdn.co/image/3c840d5eb2938afa4dc07452176dc60811ca840d"
+        },
+        {
+          "title": "Podcast do Totorial",
+          "description": "Gabriel Totoro",
+          "img": "https://i.scdn.co/image/ab67656300005f1fa2a4a208034636dc3c23c6e7"
+        },
+        {
+          "title": "Xorume",
+          "description": "xorume",
+          "img": "https://i.scdn.co/image/ab67656300005f1fca56bdc062a703351ac64ec5"
+        },
+        {
+          "title": "umdois Testando",
+          "description": "Canal umdois",
+          "img": "https://i.scdn.co/image/b753cc36bd327803f6e11be083b7d3b17f5694f3"
+        },
+        {
+          "title": "Mundo freak Confidencial",
+          "description": "Mundo Freak",
+          "img": "https://i.scdn.co/image/ab67656300005f1fed4f60f9b95df42bcdbb4ccc"
+        }
+      ]
+    },
+    {
+      "title": "Made for Inácio Campos",
+      "items": [
+        {
+          "title": "Daily Mix 1",
+          "description": "Gigi D'Agostino, Gala, Basic Connection and more",
+          "img": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb3547c85b33443eb3d8abd004/1/en/default"
+        },
+        {
+          "title": "Daily Mix 2",
+          "description": "Tujamo, Braaheim, Dada Life and more",
+          "img": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebdf9a45f820df9b6669676076/2/en/default"
+        },
+        {
+          "title": "Daily Mix 3",
+          "description": "Charlie Brown Jr., Natiruts, Engenheiros Do Hawaii and more",
+          "img": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb67bc48f32d1cc16497865361/3/en/default"
+        },
+        {
+          "title": "Daily Mix 4",
+          "description": "Lazerpunk, OGRE Sound, Hyper and more",
+          "img": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb6650a7e2cbe345515b4e7bd3/4/en/default"
+        }
+      ]
+    },
+    {
+      "title": "Popular radio",
+      "items": [
+        {
+          "title": "Coldplay Radio",
+          "description": "By Spotify",
+          "img": "https://seeded-session-images.scdn.co/v1/img/artist/4gzpq5DPGxSnKTe4SA8HAU/en"
+        },
+        {
+          "title": "Ana Castela Radio",
+          "description": "By Spotify",
+          "img": "https://seeded-session-images.scdn.co/v1/img/artist/2CKOmarVWvWqkNWUatHCex/en"
+        },
+        {
+          "title": "Marília Mendonça Radio",
+          "description": "By Spotify",
+          "img": "https://seeded-session-images.scdn.co/v1/img/artist/1yR65psqiazQpeM79CcGh8/en"
+        },
+        {
+          "title": "Henrique & Juliano Radio",
+          "description": "By Spotify",
+          "img": "https://seeded-session-images.scdn.co/v1/img/artist/3p7PcrEHaaKLJnPUGOtRlT/en"
+        },
+        {
+          "title": "Charlie Brown Jr. Radio",
+          "description": "By Spotify",
+          "img": "https://seeded-session-images.scdn.co/v1/img/artist/1on7ZQ2pvgeQF4vmIA09x5/en"
+        },
+        {
+          "title": "Imagine Dragons Radio",
+          "description": "By Spotify",
+          "img": "https://seeded-session-images.scdn.co/v1/img/artist/53XhwfbYqKCa1cC15pYq2q/en"
+        },
+        {
+          "title": "Jorge & Mateus Radio",
+          "description": "By Spotify",
+          "img": "https://seeded-session-images.scdn.co/v1/img/artist/1elUiq4X7pxej6FRlrEzjM/en"
+        }
+      ]
+    },
+    {
+      "title": "Charts",
+      "items": [
+        {
+          "title": "Top Brasil",
+          "description": "Matuê e os maiores hits do país. O que tá bombando tá aqui.",
+          "img": "https://i.scdn.co/image/ab67706f00000002fb5cdf879d33a0e46f1ce3d6"
+        },
+        {
+          "title": "Top 50 - Brazil",
+          "description": "Your daily update of the most played tracks right now - Brazil.",
+          "img": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_br_default.jpg"
+        },
+        {
+          "title": "Top 50 - Global",
+          "description": "Your daily update of the most played tracks right now - Global.",
+          "img": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_default.jpg"
+        },
+        {
+          "title": "Viral São Paulo BR",
+          "description": "The most distinctively popular new songs in São Paulo BR relative to the rest of the world.",
+          "img": "https://i.scdn.co/image/ab67706c0000da84161283d4cf8f629ef96025c0"
+        },
+        {
+          "title": "Viral Rio de Janeiro BR",
+          "description": "The most distinctively popular new songs in Rio de Janeiro BR relative to the rest of the world.",
+          "img": "https://i.scdn.co/image/ab67706c0000da84db2a98e01edbff5def9dcf0d"
+        },
+        {
+          "title": "Viral Belo Horizonte BR",
+          "description": "The most distinctively popular new songs in Belo Horizonte BR relative to the rest of the world.",
+          "img": "https://i.scdn.co/image/ab67706c0000da8491fefb5c938fb6f16e288ce0"
+        },
+        {
+          "title": "Viral Brasília BR",
+          "description": "The most distinctively popular new songs in Brasília BR relative to the rest of the world.",
+          "img": "https://i.scdn.co/image/ab67706c0000da84382531bd31c36d2e91a98bed"
+        }
+      ]
+    },
+    {
+      "title": "Popular artists",
+      "items": [
+        {
+          "title": "Ana Castela",
+          "description": "Artist",
+          "img": "https://i.scdn.co/image/ab67616100005174fb60555fd428c274df36792c"
+        },
+        {
+          "title": "Henrique &amp; Juliano",
+          "description": "Artist",
+          "img": "https://i.scdn.co/image/ab676161000051743f3fa33960346d34155cc631"
+        },
+        {
+          "title": "Marília Mendonça",
+          "description": "Artist",
+          "img": "https://i.scdn.co/image/ab6761610000517418bf270d286c175b5a248534"
+        },
+        {
+          "title": "Jorge &amp; Mateus",
+          "description": "Artist",
+          "img": "https://i.scdn.co/image/ab676161000051741df3e178779c6a9bf8303719"
+        },
+        {
+          "title": "MC Ryan SP",
+          "description": "Artist",
+          "img": "https://i.scdn.co/image/ab67616100005174735a95e4d52c37f39e2ebc73"
+        },
+        {
+          "title": "Mari Fernandez",
+          "description": "Artist",
+          "img": "https://i.scdn.co/image/ab676161000051748f2054af2f4c6ead7d874741"
+        },
+        {
+          "title": "KayBlack",
+          "description": "Artist",
+          "img": "https://i.scdn.co/image/ab67616100005174d58864dc0736b56bd83baf4a"
+        }
+      ]
+    },
+    {
+      "title": "Popular albums",
+      "items": [
+        {
+          "title": "Contradições",
+          "description": "KayBlack",
+          "img": "https://i.scdn.co/image/ab67616d00001e026fec5924fa098b92bc5ad1be"
+        },
+        {
+          "title": "Escolhas, Ep. 1 (Ao Vivo)",
+          "description": "Zé Neto & Cristiano",
+          "img": "https://i.scdn.co/image/ab67616d00001e02317cdd86c025cb660532ecb7"
+        },
+        {
+          "title": "Decretos Reais, Vol. 2",
+          "description": "Maríla Mendonça",
+          "img": "https://i.scdn.co/image/ab67616d00001e02680345244dcab673f3a1389d"
+        },
+        {
+          "title": "Manual de Como Amar Errad",
+          "description": "WIU",
+          "img": "https://i.scdn.co/image/ab67616d00001e0289b79f7ca8dd72710692809d"
+        },
+        {
+          "title": "To Be (Ao Vivo Em Brasíli",
+          "description": "Henrique & Juliano",
+          "img": "https://i.scdn.co/image/ab67616d00001e02bd4069a0dd7e469e87e05a6c"
+        },
+        {
+          "title": "AgroPlay Verão Vol.1",
+          "description": "AgroPlay, Ana Castela, Luan Pereira",
+          "img": "https://i.scdn.co/image/ab67616d00001e0287958b394a8a7bd193d1da49"
+        },
+        {
+          "title": "Cintilante (Ao Vivo)",
+          "description": "Simone Mendes",
+          "img": "https://i.scdn.co/image/ab67616d00001e0236d244b6e73427673cf37d80"
+        }
+      ]
+    },
+    {
+      "title": "Uniquely yours",
+      "items": [
+        {
+          "title": "On Repeat",
+          "description": "Songs you love right now",
+          "img": "https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg"
+        },
+        {
+          "title": "Your Time Capsule",
+          "description": "We made you a personalized playlist with songs to take you back in time.",
+          "img": "https://daily-mix.scdn.co/covers/time-capsule/time-capsule-blue_DEFAULT-en.jpg"
+        },
+        {
+          "title": "Daily Drive",
+          "description": "A mix of news and music made for you",
+          "img": "https://mixed-media-images.spotifycdn.com/daily-drive/daily-drive-2.0-en-default.jpg"
+        },
+        {
+          "title": "Repeat Rewind",
+          "description": "Your past favorites",
+          "img": "https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_DEFAULT-en.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Para acompanhar sua noite",
+      "items": [
+        {
+          "title": "Meu País Nordeste",
+          "description": "Bora arrochar, meu patrão. O som que vem da terrinha todo junto e misturado. Foto: João Gomes",
+          "img": "https://i.scdn.co/image/ab67706f00000002d8cabd19d554a3de0d459610"
+        },
+        {
+          "title": "Jersey BR",
+          "description": "daqui e de fora, pra entrar e ficar na onda",
+          "img": "https://i.scdn.co/image/ab67706f00000002c54edafb26160ceb88b073d4"
+        },
+        {
+          "title": "Pagodin",
+          "description": "Os lançamentos mais esperados do Pagode estão aqui! Foto: Di Propósito",
+          "img": "https://i.scdn.co/image/ab67706f000000020c5c58f193dd37d5d600cbbd"
+        },
+        {
+          "title": "creme",
+          "description": "tuê se vingou",
+          "img": "https://i.scdn.co/image/ab67706f0000000228e3e710864be162909feaf8"
+        },
+        {
+          "title": "Baile Maravilha",
+          "description": "O balanço é certo: a sua festa de brasilidades tá aqui!",
+          "img": "https://i.scdn.co/image/ab67706f00000002a9b5bcac45c155257d6a4622"
+        },
+        {
+          "title": "SUPERNOVA",
+          "description": "As novidades e estrelas do pop que estão explodindo no Spotify. ✨ Foto: Jason Derulo",
+          "img": "https://i.scdn.co/image/ab67706f000000028be873cd20a339304610fb2d"
+        },
+        {
+          "title": "R&B Brasil",
+          "description": "O R&B com tempero e gostinho brasileiro para você ouvir. Foto: Yas Werneck",
+          "img": "https://i.scdn.co/image/ab67706f000000020e28432a4e2831af384bcdf1"
+        }
+      ]
+    },
+    {
+      "title": "Playlists de podcasts",
+      "items": [
+        {
+          "title": "Acalmando a Mente",
+          "description": "Dê o play e tire um tempinho você",
+          "img": "https://i.scdn.co/image/ab67706f000000021a83c698ddc60cccaf3c0b21"
+        },
+        {
+          "title": "Crime e Suspense",
+          "description": "Credo, adorei!",
+          "img": "https://i.scdn.co/image/ab67706f000000029089575a0ab3b90a4693e182"
+        }
+      ]
+    }
+  ]
+}
