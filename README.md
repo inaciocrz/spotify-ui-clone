@@ -13,4 +13,4 @@ Para executar este projeto em sua máquina local, siga estas etapas:
 3. Execute `npm start` para iniciar o servidor local.
 4. Acesse http://localhost:3000 em seu navegador para visualizar o aplicativo.
 
-Para executar este projeto online, [clique aqui](https://spotify-ui-clone-chi.vercel.app)
+Para visualizar este projeto online, [clique aqui](https://spotify-ui-clone-chi.vercel.app)
